@@ -74,6 +74,8 @@ Open your web browser and visit [http://localhost:3000](http://localhost:3000).
 
 ![Screenshot 1](/screensshots/screenshot1.png)
 ![Screenshot 2](/screensshots/screenshot2.png)
+![Screenshot 3](/screensshots/screenshot3.png)
+![Screenshot 4](/screensshots/screenshot4.png)
 
 ## Contributing
 
